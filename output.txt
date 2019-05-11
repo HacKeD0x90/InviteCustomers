@@ -1,0 +1,18 @@
+Reading File With Name customers.json
+
+Customer  Ian Kehoe with UserID 4 is within 100 KM 
+Customer  Nora Dempsey with UserID 5 is within 100 KM 
+Customer  Theresa Enright with UserID 6 is within 100 KM 
+Customer  Eoin Ahearn with UserID 8 is within 100 KM 
+Customer  Richard Finnegan with UserID 11 is within 100 KM 
+Customer  Christina McArdle with UserID 12 is within 100 KM 
+Customer  Olive Ahearn with UserID 13 is within 100 KM 
+Customer  Michael Ahearn with UserID 15 is within 100 KM 
+Customer  Patricia Cahill with UserID 17 is within 100 KM 
+Customer  Eoin Gallagher with UserID 23 is within 100 KM 
+Customer  Rose Enright with UserID 24 is within 100 KM 
+Customer  Stephen McArdle with UserID 26 is within 100 KM 
+Customer  Oliver Ahearn with UserID 29 is within 100 KM 
+Customer  Nick Enright with UserID 30 is within 100 KM 
+Customer  Alan Behan with UserID 31 is within 100 KM 
+Customer  Lisa Ahearn with UserID 39 is within 100 KM 
