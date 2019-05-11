@@ -57,15 +57,6 @@ def ReadFile(CustomersFile):
 	InvitedCustomersID= sorted(InvitedCustomersID)
 	sortAndPrint(InvitedCustomersID,AllCustomers)
 	
-		
-
-
-
-	
-			
-			
-
-			
 
 
 ################### Main Function Starts by reading the Customers.json File################
